@@ -33,7 +33,7 @@ This XR Unity project simulates a customizable radiation zone with interactive f
 
 ## **Setup Instructions**
 1. **Clone the Repository**:
-   git clone https://github.com/mayacou/radiation-zone-simulation.git
+   git clone https://github.com/mayacou/Radiation-Zone-Simulation.git
 
 2. **Open the Project**:
    - Launch Unity Hub.
